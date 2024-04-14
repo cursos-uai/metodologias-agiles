@@ -1,4 +1,4 @@
-# Metodologias Agiles
+# Metodologías Ágiles
 
 Bienvenido al repositorio de almacenamiento de Ejercicios y TP de alumnos 
 
