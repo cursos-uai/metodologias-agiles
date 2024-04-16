@@ -16,6 +16,6 @@ Los alumnos deben ir subiendo los avances y resoluciones de ejercicios a este re
    
 4. Hacer un pedido de Pull Request hacia este repositorio para que el docente lo apruebe. 
 
-> Puedes ser el siguiente [video](https://youtu.be/8TdMJMYt2Nk) donde se muestra un ejemplo de los pasos anteriores
+> Puedes ser el siguiente [video](https://youtu.be/JghdxA5pVjg) donde se muestra un ejemplo de los pasos anteriores
 
    
