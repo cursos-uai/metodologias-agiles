@@ -1,5 +1,5 @@
 # Ejercicio 2
-
+---
 ## Ejemplos de desarrollo de software en los que hayas participado. Ejemplos que conozcas.
 
 Personalmente, todavía no tuve la oportunidad de participar en un proyecto de desarrollo de software en alguna empresa. El trabajo de software más grande que realicé fue en la facultad, pero pese a eso no fue tan colaborativo como un proyecto de software real en una empresa. Realice un software para la gestión de árboles, y el proyecto está público en mi GitHub.
@@ -15,4 +15,4 @@ Sí, claramente. Otros roles importantes en el desarrollo de software son el de 
 
 ## ¿Cuándo se ha desarrollado un buen software?
 
-Se desarrolló un buen software cuando cumple con los requerimientos del cliente, es fácil de mantener y escalar, es de calidad, robusto y seguro. Esas característas son esenciales para mí, aunque pueden agregarse algunas más, como puede ser que sea fácil de usar, que el cliente esté satisfecho con el producto final, cumplimiento del plazo, etc. 
+Se desarrolló un buen software cuando cumple con los requerimientos del cliente, es fácil de mantener y escalar, es de calidad, robusto y seguro. Esas características son esenciales para mí, aunque pueden agregarse algunas más, como puede ser que sea fácil de usar, que el cliente esté satisfecho con el producto final, cumplimiento del plazo, etc. 
