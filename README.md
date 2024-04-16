@@ -9,9 +9,11 @@ Los alumnos deben ir subiendo los avances y resoluciones de ejercicios a este re
 1. Debe hacer un Fork de este repositorio
 2. Hacer commit a su repositorio con los avances
 3. ## Instrucciones para resolver cada ejercicio 
-   1. En el directorio correspondiente al ejericio, crea un nuevo directorio denominado <TuApellido_Nombre>
-   2. Dentro crea un archivo denominado <EjercicioNro.md> o <EjercicioNro.pdf>
-   3. En este archivo debes poner el contenido del ejercicio
+   1. Crear un directorio con su Apellido y Nombre dentro del directorio <EjerciciosResultos>
+   2. Para cada ejercicio enunciado en el archivo <Enunciados_Ejercicios.md> crear un archivo llamado <EjercicioN.md> con la resolución propuesta.
+   3. Crear un directorio con su Apellido y Nombre dentro del directorio <TrabajoPractivo> 
+   4. Crear un archivo donde se encuentre la resolución del trabajo práctico enunciado en el archivo <Enunciado_Trabajo_Práctico.md>
+   
 4. Hacer un pedido de Pull Request hacia este repositorio para que el docente lo apruebe. 
 
 > Puedes ser el siguiente [video](https://youtu.be/8TdMJMYt2Nk) donde se muestra un ejemplo de los pasos anteriores
