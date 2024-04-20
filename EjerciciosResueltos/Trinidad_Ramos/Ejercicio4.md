@@ -1,0 +1,3 @@
+1. La comunicacion entre los participantes del proyecto (equipo,skateholders y clientes) a veces se dificulta debido a la interpretacion de ciertos requisitos.
+2. Cada persona que involucra el proyecto tiene un grado de motivacion y compromiso por el mismo. Esto al ser tan variado puede afectar a la calidad del trabajo.
+3. Los errores humanos pueden llegar a causar defectos en el software, afectando su calidad. Es por ello que es muy importante gestionarlos y tomar medidas para reducir su impacto durante el desarrollo.

@@ -1,0 +1,5 @@
+1. Modularidad: si uno divide el sistema en partes independientes y coherentes, permite que se facilite los cambios sin afectar otras áreas.
+2. Tecnologías y herramientas adaptables: uso de herramientas y tecnologías que tienen la capacidad de ajustarse fácilmente a los cambios en los requisitos del proyecto y pueden evolucionar con el tiempo para mantener la relevancia y eficacia del software desarrollado.
+3. Si se establecen pruebas automaticas se va a poder detectar errores de manera mas rapida
+4. Si se hace un buen feedback de manera constante con los usuarios finales, el software se va a poder adaptar segun las necesidades cambiantes
+5. Arquitectura flexible: desarrollar una estructura que pueda ajustarse y expandirse según sea necesario a lo largo del tiempo, facilitando la adaptación a cambios en los requisitos y el crecimiento del sistema.
