@@ -10,7 +10,7 @@ Cual es el papel del desarrollador en el desarrollo de un proyecto software?
 Hay otros papeles importantes en el desarrollo,aparte del desarrollador?
 1. Gentente de Proyecto: es el responsable de la planificacion, coordinacion y ejecicion general del proyecto.
 2. Analista de Negocios: es el que comprende las necesidades  del negocio y los objetivos del proyecto.
-3. Tester: prueba el software ;para identificar los errores.
+3. Tester: prueba el software, para identificar los errores.
 
 Cuando se ha desarrollado un buen software?
-Se ha desarrollado un b uen software cuando este hace lo que debe hacer, sin errores y de manera facil de entender y usar.
+Se ha desarrollado un buen software cuando este hace lo que debe hacer, sin errores y de manera facil de entender y usar.
