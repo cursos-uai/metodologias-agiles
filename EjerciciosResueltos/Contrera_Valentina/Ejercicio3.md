@@ -1,6 +1,6 @@
 # Ejercicio 3
 
-**¿Qué ventajas y desventajas tienen los diagramas UML?**
+1. ¿Qué ventajas y desventajas tienen los diagramas UML?
 
 Los diagramas UML son como universales para los desarrolladores. Si los entiendes, puedes entender el de cualquier programa de cualquier parte del mundo. Si el proyecto contiene muchas partes o cosas complicadas, los diagramas lo pueden simplificar.
 

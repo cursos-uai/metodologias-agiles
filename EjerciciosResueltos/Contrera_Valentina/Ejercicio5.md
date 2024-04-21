@@ -1,6 +1,6 @@
 # Ejercicio 5
 
-**Proponga 5 elementos	 que ayuden en el desarrollo de software referido a la propiedad de flexibilidad que se requiere.**
+1. Proponga 5 elementos	 que ayuden en el desarrollo de software referido a la propiedad de flexibilidad que se requiere.
 
 Dividir en módulos, en componentes independientes y reutilizables.
 
