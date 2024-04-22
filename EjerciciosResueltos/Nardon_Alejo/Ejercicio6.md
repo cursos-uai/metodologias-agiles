@@ -1,0 +1,2 @@
+## Brindar un ejemplo en que se vean reflejadas las siguientes ventajas de la aplicación de normas en el desarrollo de software: 
+Un ejemplo puntual podrían ser productos de SAP, que en estándares del mercado son uno de los mejores. En donde se encuentra constantemente en la mejora de la calidad y la optimización, uno de los factores por los existe y se mantiene por tantos años. Todas las empresas grandes buscan tener SAP generado gracias a su alta satisfacción con el cliente 
