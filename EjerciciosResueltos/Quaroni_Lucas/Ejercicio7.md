@@ -1,0 +1,6 @@
+# Dar un ejemplo de cada uno de los cuellos de botellas analizados anteriormente en el paper de Brooks
+
+- Complejidad: Desarrollar un sistema de navegación autónoma para vehículos aéreos no tripulados, donde la coordinación de múltiples sensores y la toma de decisiones en tiempo real generan una complejidad significativa.
+- Conformidad: Crear un sistema de gestión de registros médicos que cumpla con los estándares de privacidad de datos HIPAA, requiriendo medidas adicionales de seguridad y auditorías exhaustivas.
+- Cambiabilidad: Desarrollar un sistema de reservas de viajes en línea que debe adaptarse constantemente a cambios en los precios de los vuelos y la disponibilidad de hoteles, lo que implica una rápida actualización de la lógica de negocio y la interfaz de usuario.
+- Invisibilidad: Implementar algoritmos de inteligencia artificial para la detección de fraudes en transacciones financieras, donde la complejidad interna de los modelos y la opacidad de los datos pueden dificultar la identificación de errores o problemas de rendimiento.
