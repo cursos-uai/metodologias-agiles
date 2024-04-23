@@ -1,6 +1,6 @@
 Ejercicio 1
 ¿Qué sabeis de metodologías ágiles?
-
+    Entiendo que las metodologias agiles proponen una forma de llevar adelante proyectos. Su aplicación es mas o menos conveniente dependiendo el proyecto.
 ¿Conceptos aprendidos en otras asignaturas?
     Conocí las metodologías ágiles en la secundaria. Allí nos hicieron poner en practica Scrum en la plataforma de Trello para gestionar algunos proyectos académicos de programación.
 ¿Estais trabajando?¿Qué metodología usan en la empresa?
