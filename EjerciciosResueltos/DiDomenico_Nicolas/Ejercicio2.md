@@ -1,0 +1,5 @@
+Ejercicio 2:
+•	Actualmente estoy cursando también Ingeniería de software para conseguir el título intermedio y mi software a desarrollar estará destinado a gimnasios que ofrecen entrenamiento personalizado en musculación. El objetivo es transformar la gestión de estos gimnasios, liberando a los clientes del control de sus actividades, facilitando a los entrenadores el seguimiento eficiente de las mismas.
+•	Los desarrolladores son responsables de escribir, probar y mantener el código que forma la base del software. Traducen los requisitos del cliente o las especificaciones del proyecto en código funcional, asegurándose de que el software cumpla con los estándares de calidad.
+•	Lider de proyecto, Analista de sistemas, Diseñador UI, Tester, etc .
+•	Cuando cumple con los requisitos del cliente, y que pueda adaptarse a los cambios a través del tiempo.
