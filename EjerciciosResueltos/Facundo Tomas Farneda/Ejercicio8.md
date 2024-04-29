@@ -31,7 +31,7 @@ Titulo: Agregar un nuevo producto
 
 ### Ejercicio4
 
-![interfaz](path) Todavia falta
+![interfaz](./imgs/Interfaz.png)
 
 ## Diseño del Programa
 
