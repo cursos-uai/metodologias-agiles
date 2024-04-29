@@ -1,0 +1,9 @@
+- Dar un ejemplo de cada uno de los cuellos de botellas analizados anteriormente en el paper de Brooks
+
+Complejidad: A medida que se agregan nuevas características y funcionalidades, la complejidad del código aumenta. Eventualmente, el código se vuelve difícil de entender y mantener debido a su complejidad, lo que ralentiza el proceso de desarrollo.
+
+Conformidad: Supongamos que un equipo de desarrollo de software trabaja en un proyecto que debe cumplir con estrictas regulaciones de seguridad y privacidad de datos, donde el equipo debe dedicar una cantidad significativa de tiempo y recursos para garantizar que el software cumpla con todos los requisitos legales y normativos, lo que ralentiza el proceso de desarrollo y puede afectar la entrega oportuna del producto.
+
+Cambiabilidad: En un proyecto de desarrollo de software para una aplicación de comercio electrónico, el equipo descubre que los requisitos del cliente están cambiando constantemente a medida que se realizan pruebas y se obtiene retroalimentación del usuario. Sin embargo, el diseño del software no se adapta fácilmente a estos cambios, lo que resulta en retrasos y en la necesidad de realizar cambios significativos en etapas posteriores del desarrollo. Esta falta de capacidad para adaptarse rápidamente a los cambios de requisitos crea un cuello de botella en el proceso de desarrollo.
+
+Invisibilidad: En un proyecto de desarrollo de software, el equipo carece de herramientas o procesos adecuados para rastrear y gestionar eficazmente el progreso del proyecto. Como resultado, los gerentes y otros interesados no tienen una visibilidad clara del estado del proyecto, lo que dificulta la toma de decisiones informadas y la identificación temprana de posibles problemas.
