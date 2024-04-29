@@ -8,4 +8,4 @@
 
     - Desventajas:
         * En proyectos de mayor escala, puede resultar siendo muy complejo de implementar el funcionamiento del sistema.
-        * Además, al ser abstracto un proyecto, puede no interpretarse de manera correcta y las personas del equipo pueden entender su funcionamiento de diversas maneras, generando incertidumbre y malentendiendo el mismo. 
+        * Además, al ser abstracto un proyecto, puede no interpretarse de manera correcta y las personas del equipo pueden entender su funcionamiento de diversas maneras, generando incertidumbre y malentendiendo el mismo.
