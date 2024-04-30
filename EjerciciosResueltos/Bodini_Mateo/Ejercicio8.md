@@ -43,7 +43,7 @@ El nuevo producto es agregado con éxito al catálogo de productos disponibles p
 ## Ejercicio 3:
 ![Diagram](./Screenshot%202024-04-29%20172318.png)
 ## Ejercicio 4:
-![Text](/metodologias-agiles/EjerciciosResueltos/Bodini_Mateo/Inicio.png)
+![HomeScreen](./Inicio.png)
 
 ---
 # 3. Diseño del Programa:
