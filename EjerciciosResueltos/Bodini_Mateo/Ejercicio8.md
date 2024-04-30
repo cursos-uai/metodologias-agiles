@@ -41,7 +41,7 @@ El nuevo producto es agregado con éxito al catálogo de productos disponibles p
 ---
 # 2. Diseño del Sistema:
 ## Ejercicio 3:
-![Text](/metodologias-agiles/EjerciciosResueltos/Bodini_Mateo/Screenshot%202024-04-29%20172318.png)
+![Diagram](./Screenshot%202024-04-29%20172318.png)
 ## Ejercicio 4:
 ![Text](/metodologias-agiles/EjerciciosResueltos/Bodini_Mateo/Inicio.png)
 
