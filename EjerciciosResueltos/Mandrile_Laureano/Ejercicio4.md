@@ -1,0 +1,1 @@
+* La complejidad que agrega el factor humano inicia desde la comunicación con sus pares la colaboración en el proyecto, la cultura organizacional que tenga y las expectativas y motivación que cada uno tiene al momento de iniciar un proyecto.
