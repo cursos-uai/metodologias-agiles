@@ -44,3 +44,22 @@ componentes que contendrá la aplicación.
 ### Ejercicio 6
 
 ![DataBase](./imgs/DataBase.png)
+
+## Diseño
+
+#### Diagrama de Dominio
+
+![DiagramaDominio](path)
+
+#### Diagrama de Robustez
+![DiagramaRobustez](path)
+
+#### Prototipo
+
+#### Diagrama de Secuencia
+
+![alt text](path)
+
+#### Diagrama de Clases
+
+![DiagramaClases](path)
