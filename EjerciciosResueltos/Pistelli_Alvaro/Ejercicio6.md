@@ -1,0 +1,7 @@
+Imaginemos una empresa de desarrollo de software que decide implementar normas y buenas prácticas en su proceso de desarrollo. Por ejemplo el Desarrollo de un Sistema de Gestión de Ventas.
+
+• Al implementar normas de codificación, revisión de código y pruebas automatizadas, la empresa logra reducir significativamente el número de errores y defectos en el software.
+• La empresa adopta metodologías ágiles y herramientas de gestión de proyectos que permiten una planificación más eficiente, una comunicación mejorada entre los equipos y una iteración rápida. Como resultado, se aumenta la eficiencia y la productividad en el desarrollo del sistema de gestión de ventas.
+• La empresa se asegura de involucrar al cliente en todas las etapas del desarrollo, desde la definición de requisitos hasta la entrega del producto final.
+• Al reducir el número de errores y defectos, así como optimizar el proceso de desarrollo, la empresa logra minimizar los costos asociados con el desarrollo y el mantenimiento del sistema de gestión de ventas.
+• La empresa se posiciona como líder en el mercado al ofrecer un software de alta calidad, seguro y que cumple con las expectativas del cliente. Esto le permite diferenciarse de la competencia y atraer a más clientes potenciales interesados en adquirir su producto.
