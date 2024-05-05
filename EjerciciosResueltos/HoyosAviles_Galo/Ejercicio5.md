@@ -1,0 +1,6 @@
+# Proponga cinco elementos que ayuden en el desarrollo de software referido a la propiedad de flexibilidad que se requiere. 
+1. **Metodologías Ágiles:** Adoptar metodologías ágiles como Scrum o Kanban permite a los equipos responder rápidamente a los cambios y adaptarse a las necesidades cambiantes del proyecto.
+2. **Programación Modular:** Utilizar un enfoque de programación modular facilita la extensibilidad y el mantenimiento del código, permitiendo que diferentes módulos funcionen de manera independiente.
+3. **Desarrollo Guiado por Pruebas (TDD):** Implementar TDD asegura que el software sea diseñado con pruebas desde el principio, lo que contribuye a una mayor flexibilidad y calidad del código.
+4. **Control de Versiones:** El uso de sistemas de control de versiones como Git permite gestionar cambios en el código fuente de manera eficiente, facilitando la colaboración y el seguimiento de las modificaciones.
+5. **Arquitecturas Escalables y Modulares:** Elegir arquitecturas que promuevan la modularidad y la escalabilidad ayuda a que el software pueda crecer y adaptarse sin necesidad de reestructuraciones mayores.
