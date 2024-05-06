@@ -1,0 +1,1 @@
+* La complejidad que agrega principalmente la experiencia que tiene cada miembro del equipo, comunicacion, ideologias o metodos de trabajo de cada uno. *
