@@ -1,3 +1,3 @@
 *** ¿Qué complejidad agrega el factor humana en el desarrollo de software? ***
 
---
+-- El factor humano hace mas complejo el desarrollo de un software, mirandolo desde el punto de vista de nuestro grupo de trabajo, pueden ocurrir distracciones o malentendidos que nos lleven a cometer errores. Por su lado tenemos al cliente quien podria requerir modificaciones sobre el software complejizando asi su desarrollo.
