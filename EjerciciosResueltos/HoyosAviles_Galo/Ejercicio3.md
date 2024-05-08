@@ -1,3 +1,0 @@
-# Que ventajas y desventajas tienen los diagramas UML?
-Yo creo que la principal ventaja de un diagrama UML es la capacidad de imaginar y en cierto modo ver como se va a comportar un sistema antes de comenzar el desarrollo de este, asi como ver sus distintos componentes y de que manera se van a relacionar entre si.
-Como una gran desventaja que puedo ver es que estos diagramas son completamente abstractos, ya que nosotros nunca veremos de forma fisica lo que representamos con los cuadros que dibujamos, lo que puede dejar que muchas cosas sean libres a interpretación, y se puedan malinterpretar o implementar de formas que no estaban previstas.
