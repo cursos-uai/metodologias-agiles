@@ -10,6 +10,7 @@
 2. La aplicación web tiene que ser capaz de agregar productos
 3. La aplicación web tiene que ser capaz de remover productos
 4. La aplicacion web tiene que ser capaz de modificar productos
+5. La aplicación web tiene que aceptar productos que no contengan productos más de 60 palabras.
 
 - Requerimientos no funcionales
 
@@ -63,3 +64,29 @@ componentes que contendrá la aplicación.
 #### Diagrama de Clases
 
 ![DiagramaClases](path)
+### Ejercicio 7
+
+La forma en la que implementaría la funcionalidad es con el lenguaje C# y Razor Pages, con estas herramientas haría una aplicación con el framework Blazor en Visual Studio Community 2022. Para guardar los datos utilizaría SQL Server.
+### Ejercicio 8
+Habiendo elegido una arquitectura en capas implementaría la lógica de negocio en varias clases. Una que hace validaciones, otra que vincule la interfaz y la capa da acceso de datos.
+## Pruebas
+### Ejercicio 9
+Prueba unitaria 1: Verificar que el producto se registre exitosamente en la base de datos.
+
+Prueba unitaria 2: Verificar que el precio del producto no tenga un valor negativo.
+
+### Ejercicio 10
+Las siguientes pruebas integran los modulos de "Agregar un nuevo producto" y el de validaciones.
+
+Prueba de integracion 1: Verificar que ningún campo se encuentre vacio y que se registre el producto en la base de datos correctamente.
+
+Prueba de integracion 2: Verificar que el nombre del producto no supere el limite de 60 palabras y que se registre en la base de datos correctamente.
+## Despliegue del Programa
+### Ejercicio 11
+La aplicacion web será instalada mediante un programa ".exe" en la carpeta  "Archivos de programa(x86)".
+### Ejercicio 12
+## Mantenimiento
+### Ejercicio 13
+--
+### Ejercicio 14
+Se encontro un error en la aplicacion que consistia en que la aplicacion web aceptada caracteres especiales como "@" en el campo para introducir el nombre del producto.
