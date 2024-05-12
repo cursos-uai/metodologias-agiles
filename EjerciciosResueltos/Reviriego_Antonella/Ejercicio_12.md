@@ -67,13 +67,13 @@ Ejemplo general: Organizar eventos o talleres relacionados con el tema del curso
 
 | Principio Lean                 | Ejemplos de aplicación en el proceso de cursado y aprobación                                                  |
 |--------------------------------|--------------------------------------------------------------------------------------------------------------|
-| 1. Eliminar el despilfarro    | - Reducir material redundante en el contenido del curso. <br>- Optimizar el tiempo de estudio. <br>- Simplificar el proceso de evaluación. |
-| 2. Valor                       | - Recopilar retroalimentación regularmente. <br>- Adaptar el contenido a las necesidades del estudiante. <br>- Promover la participación activa. |
-| 3. Flujo                       | - Secuenciar el contenido de manera lógica. <br>- Evitar cuellos de botella. <br>- Proporcionar retroalimentación oportuna. |
-| 4. Takt                        | - Planificar el calendario del curso. <br>- Establecer hitos de progreso. <br>- Proporcionar apoyo continuo. |
-| 5. Producción justo a tiempo    | - Proporcionar materiales de referencia. <br>- Ofrecer sesiones de tutoría bajo demanda. <br>- Fomentar la colaboración entre pares. |
-| 6. Calidad en la fuente        | - Clarificar expectativas desde el principio. <br>- Proporcionar retroalimentación formativa. <br>- Promover la autorreflexión. |
-| 7. Aprendizaje continuo        | - Promover la reflexión. <br>- Fomentar la experimentación. <br>- Proporcionar recursos para el desarrollo profesional. |
+| 1. Eliminar el desperdicio    | - Reducir material redundante en el contenido del curso. <br>- Optimizar el tiempo de estudio. <br>- Simplificar el proceso de evaluación. |
+| 2. Fomentar la calidad              | - Recopilar retroalimentación regularmente. <br>- Adaptar el contenido a las necesidades del estudiante. <br>- Promover la participación activa. |
+| 3. Crear conocimiento                       | - Secuenciar el contenido de manera lógica. <br>- Evitar cuellos de botella. <br>- Proporcionar retroalimentación oportuna. |
+| 4. Decidir lo mas tarde posible                        | - Planificar el calendario del curso. <br>- Establecer hitos de progreso. <br>- Proporcionar apoyo continuo. |
+| 5. Entregar rápido    | - Proporcionar materiales de referencia. <br>- Ofrecer sesiones de tutoría bajo demanda. <br>- Fomentar la colaboración entre pares. |
+| 6. Respetar a la gente, potenciar el equipo        | - Clarificar expectativas desde el principio. <br>- Proporcionar retroalimentación formativa. <br>- Promover la autorreflexión. |
+| 7. Optimizar el conjunto        | - Promover la reflexión. <br>- Fomentar la experimentación. <br>- Proporcionar recursos para el desarrollo profesional. |
 
 
 
