@@ -68,7 +68,7 @@ b) Utiliza un ML para realizar una tabla de relación de principios
    - Establecer tiempos regulares de descanso y autocuidado para evitar el agotamiento y mantener la motivación a lo largo del proceso de cursado.
    - Establecer metas a corto y largo plazo, dividiendo el proceso de cursado en hitos alcanzables y celebrando los logros obtenidos.
 
-Ejemplo adicional para estudiantes en general:
+- Ejemplo:
 - Utilizar herramientas de gestión del tiempo, como técnicas de pomodoro o aplicaciones de seguimiento de tareas, para organizar de manera efectiva el estudio y evitar la procrastinación.
 
 
