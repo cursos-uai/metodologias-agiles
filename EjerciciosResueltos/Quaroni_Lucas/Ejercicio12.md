@@ -15,19 +15,10 @@ Principios del Desarrollo Lean:
   - Evitar la duplicación de esfuerzos al compartir recursos y materiales de estudio con otros estudiantes.
   - Optimizar el tiempo de estudio eliminando distracciones, como apagar el teléfono móvil durante las horas de estudio.
 
-- Ejemplo:
-  - Digitalizar y optimizar los procesos de registro y administración de cursos para reducir el papeleo y los tiempos de espera.
-  - Establecer un sistema de gestión de tareas y plazos para evitar la procrastinación y el incumplimiento de plazos.
-
-
 2. Ampliar el aprendizaje:
   - Buscar oportunidades de aprendizaje más allá de las asignaturas obligatorias, como participar en proyectos de investigación o asistir a conferencias y seminarios relacionados con tu campo de estudio.
   - Establecer un horario regular para el aprendizaje autodirigido, dedicando tiempo a leer libros y artículos relevantes a tus intereses académicos.
   - Participar en grupos de estudio o formar un grupo de estudio con otros estudiantes para intercambiar conocimientos y experiencias.
-
-- Ejemplo:
-  - Fomentar la participación activa en el aula mediante discusiones y debates, en lugar de una enseñanza exclusivamente basada en conferencias.
-  - Proporcionar recursos adicionales, como tutorías o materiales de apoyo en línea, para ayudar a los estudiantes con diferentes estilos de aprendizaje.
 
 
 3. Decidir tarde:
@@ -35,19 +26,11 @@ Principios del Desarrollo Lean:
   - Posponer la decisión de especialización o elección de carrera hasta que hayas tenido la oportunidad de explorar diferentes áreas de estudio.
   - Mantener cierta flexibilidad en tu horario de estudio para poder ajustarlo según tus necesidades y preferencias.
 
-- Ejemplo:
-  - Ofrecer a los estudiantes la posibilidad de elegir proyectos o temas de investigación en etapas posteriores del programa académico, una vez que hayan adquirido un conocimiento más completo y puedan tomar decisiones más informadas.
-  - Permitir cambios de asignaturas o cursos durante los primeros períodos académicos, para que los estudiantes puedan explorar diferentes áreas de interés antes de tomar decisiones más definitivas.
-
 
 4. Aprender de forma iterativa y rápida:
   - Realizar evaluaciones periódicas de tu progreso académico y ajustar tus métodos de estudio en consecuencia.
   - Obtener retroalimentación regular de profesores y compañeros de estudio sobre tus proyectos o trabajos, y utilizar esa información para mejorar continuamente tu rendimiento.
   - Establecer metas a corto plazo y revisarlas regularmente para asegurarte de que estás en el camino correcto hacia la aprobación de tus cursos.
-
-- Ejemplo:
-  - Implementar ciclos de retroalimentación frecuentes entre profesores y estudiantes para mejorar la calidad de la enseñanza y el aprendizaje.
-  - Proporcionar oportunidades de práctica y ejercicios que permitan a los estudiantes aprender de forma iterativa y corregir errores a lo largo del proceso.
 
 
 5. Entregar rápidamente y con frecuencia:
@@ -55,19 +38,11 @@ Principios del Desarrollo Lean:
   - Participar en grupos de estudio o colaborar con otros estudiantes para compartir ideas y conocimientos, y así lograr avances más rápidos en el aprendizaje.
   - Utilizar herramientasde gestión de tareas y proyectos para realizar un seguimiento de tus entregas y asegurarte de cumplir con los plazos establecidos.
 
-- Ejemplo:
-  - Implementar un sistema de retroalimentación rápida en forma de evaluaciones formativas o breves exámenes para identificar rápidamente las áreas en las que los estudiantes necesitan mejorar y brindarles oportunidades de aprendizaje adicional.
-  - Promover la entrega de proyectos o trabajos en etapas intermedias, permitiendo que los estudiantes reciban comentarios y realicen mejoras antes de la entrega final.
-
 
 6. Respetar a las personas:
   - Establecer un ambiente de estudio colaborativo y respetuoso, donde los compañeros de clase se sientan cómodos compartiendo ideas y ayudándose mutuamente.
   - Buscar y aprovechar los recursos y el apoyo disponibles en la institución educativa, como servicios de asesoramiento académico o tutorías, para obtener ayuda cuando sea necesario.
   - Respetar los límites de tiempo y las necesidades de descanso y autocuidado, evitando el agotamiento y el estrés excesivo.
-
-- Ejemplo:
-  - Fomentar la inclusión y la diversidad en el aula, creando un ambiente en el que todos los estudiantes se sientan valorados y respetados.
-  - Proporcionar canales de comunicación abiertos y accesibles para que los estudiantes puedan expresar sus inquietudes, sugerencias o necesidades especiales.
 
 
 7. Optimizar el todo:
