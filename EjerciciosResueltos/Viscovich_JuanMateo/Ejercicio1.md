@@ -1,6 +1,6 @@
 ## ¿Qué sabes de metodologías ágiles?
 
-    Aprendí los conceptos básicos de metodologías ágiles de manera autodidacta. Son técnicas de organización y gestión principalmente utilizadas en el ámbito del desarrollo de software, las cuáles permiten que un proyecto u objetivo se desarrolle de manera clara y eficiente, un ejemplo muy utilizado es la metodología Scrum. 
+    Aprendí los conceptos básicos de metodologías ágiles de manera autodidacta. Son técnicas de organización y gestión principalmente utilizadas en el ámbito del desarrollo de software, las cuales permiten que un proyecto u objetivo se desarrolle de manera clara y eficiente, un ejemplo muy utilizado es la metodología Scrum. 
 
 ## ¿Conceptos aprendidos en otras asignaturas?
 
