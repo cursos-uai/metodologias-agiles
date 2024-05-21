@@ -1,0 +1,3 @@
+## ¿Qué complejidad agrega el factor humano en el desarrollo de software?
+
+La complejidad que agrega el factor humano es que totalmente impredecible en cuanto a las opiniones, gustos y necesidades que cambian todo el tiempo haciendo dificil la tarea de desarrollar un software ya que puede haber conflictos en el ambito laboral o simplemente el cliente quiera cambiar algo y eso implica tirar horas y horas de trabajo.
