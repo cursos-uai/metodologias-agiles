@@ -1,0 +1,1 @@
+•	El humano es impredecible e inexacto, hay ocasiones que busca soluciones complejas para problemas simples 
