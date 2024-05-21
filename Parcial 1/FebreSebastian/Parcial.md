@@ -11,13 +11,13 @@ Sebastian Febre
 
 
 ##  2. 
-![alt text](img\ej2-1.png)
-![alt text](img\ej2-2.png)
-![alt text](img\ej2-3.png)
+![alt text](img/ej2-1.png)
+![alt text](img/ej2-2.png)
+![alt text](img/ej2-3.png)
 
 
 ## 3. Diseño del Tablero Kanban
-![alt text](img\Kanban.png)
+![alt text](img/Kanban.png)
 
 **Bloqueado**
 - Esta columna es para tareas que no pueden avanzar debido a algún impedimento (falta de otra tarea por hacer).
