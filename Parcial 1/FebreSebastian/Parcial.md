@@ -11,17 +11,16 @@ Sebastian Febre
 
 
 ##  2. 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](img\ej2-1.png)
+![alt text](img\ej2-2.png)
+![alt text](img\ej2-3.png)
 
 
 ## 3. Diseño del Tablero Kanban
-![alt text](Kanban.png)
-
+![alt text](img\Kanban.png)
 
 **Bloqueado**
-- Esta columna es para tareas que no pueden avanzar debido a algún impedimento.
+- Esta columna es para tareas que no pueden avanzar debido a algún impedimento (falta de otra tarea por hacer).
 
 *Problemática Abordada:*
 * Falta de planificación y organización: Identifica y visualiza rápidamente los obstáculos que están impidiendo el progreso.
