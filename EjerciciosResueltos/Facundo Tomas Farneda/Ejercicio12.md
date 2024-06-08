@@ -55,3 +55,15 @@ Este principio aplica a la etapa intermedia del cursado, ya que es la etapa dond
 Un ejemplo puede ser utilizando técnicas de gestión del tiempo como Pomodoro o bloques de tiempo para aumentar la productividad y evitar la procrastinación. Otro ejemplo puede ser incluir actividades de ocio y ejercicio físico en el horario semanal, asegurando un enfoque generalizado del bienestar. Un último ejemplo puede ser revisar y ajustar el plan cada mes en función del progreso y las necesidades.
 
 Para estudiantes en general un ejemplo puede ser utilizar aplicaciones y herramientas digitales para gestionar tareas y plazos de manera eficiente.
+
+## Tabla de relación de principios
+
+| Principio                         | Descripción                                                           |
+|-----------------------------------|-----------------------------------------------------------------------|
+| 1. Eliminar los desperdicios      | Eliminar todo lo que no agregue valor al producto                     |
+| 2. Amplificar la aprendizaje      | Incrementar la retroalimentación en situaciones de dificultades       |
+| 3. Decidir lo más tarde posible   | Tomar decisiones lo antes posible, pero no antes de que sea necesario |
+| 4. Entregar lo más rápido posible | Entregar valor a los clientes lo antes posible                        |
+| 5. Empoderar al equipo            | Permitir que los miembros del equipo utilicen su potencial completo   |
+| 6. Construir integridad           | Construir la integridad en el producto, en lugar de agregarla después |
+| 7. Ver el todo                    | Tener en cuenta el todo, en lugar de optimizar partes                 |
