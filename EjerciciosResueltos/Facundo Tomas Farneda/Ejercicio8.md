@@ -1,4 +1,4 @@
-# Ejercicio 8
+# Ejercicio 8 | Práctica
 
 ## Análisis de Requerimientos
 
@@ -48,28 +48,46 @@ componentes que contendrá la aplicación.
 
 ## Diseño
 
-#### Diagrama de Dominio
+### Diagrama de Dominio
 
-![DiagramaDominio](path)
+![DiagramaDominio](./imgs/DiagramaDominio.png)
 
-#### Diagrama de Robustez
-![DiagramaRobustez](path)
+### Diagrama de Robustez
 
-#### Prototipo
+![DiagramaRobustez](./imgs/DiagramaRobustez.png)
 
-#### Diagrama de Secuencia
+### Prototipo
 
-![alt text](path)
+#### Inicio
 
-#### Diagrama de Clases
+![Prototipo(Inicio)](./imgs/PrototipoInicio.png)
 
-![DiagramaClases](path)
+#### Agregar Producto
+
+![Prototipo(AgregarProducto)](./imgs/PrototipoAgregarProducto.png)
+
+#### Resultado
+
+![Prototipo(Resultado)](./imgs/PrototipoFinal.png)
+
+### Diagrama de Secuencia
+
+![DiagramaSecuencia](./imgs/DiagramaSecuencia.png)
+
+### Diagrama de Clases
+
+![DiagramaClases](./imgs/DiagramaClases.png)
+
 ### Ejercicio 7
 
 La forma en la que implementaría la funcionalidad es con el lenguaje C# y Razor Pages, con estas herramientas haría una aplicación con el framework Blazor en Visual Studio Community 2022. Para guardar los datos utilizaría SQL Server.
+
 ### Ejercicio 8
+
 Habiendo elegido una arquitectura en capas implementaría la lógica de negocio en varias clases. Una que hace validaciones, otra que vincule la interfaz y la capa da acceso de datos.
+
 ## Pruebas
+
 ### Ejercicio 9
 Prueba unitaria 1: Verificar que el producto se registre exitosamente en la base de datos.
 
@@ -81,10 +99,15 @@ Las siguientes pruebas integran los modulos de "Agregar un nuevo producto" y el 
 Prueba de integracion 1: Verificar que ningún campo se encuentre vacio y que se registre el producto en la base de datos correctamente.
 
 Prueba de integracion 2: Verificar que el nombre del producto no supere el limite de 60 palabras y que se registre en la base de datos correctamente.
+
 ## Despliegue del Programa
+
 ### Ejercicio 11
+
 La aplicacion web será instalada mediante un programa ".exe" en la carpeta  "Archivos de programa(x86)".
+
 ### Ejercicio 12
+
 La aplicación será desplegada a un servidor de producción cuando se realicen los siguientes pasos.
 
 1. El servidor debe estar preparado, es decir que sea capaz de acceder al mismo y que este actualizado.
@@ -96,6 +119,7 @@ La aplicación será desplegada a un servidor de producción cuando se realicen 
 7. Se tiene que configurar la seguridad del servidor web.
 
 ## Mantenimiento
+
 ### Ejercicio 13
 
 El plan de mantenimiento para la aplicación web será el siguiente:
