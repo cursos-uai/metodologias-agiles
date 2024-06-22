@@ -85,8 +85,24 @@ Prueba de integracion 2: Verificar que el nombre del producto no supere el limit
 ### Ejercicio 11
 La aplicacion web será instalada mediante un programa ".exe" en la carpeta  "Archivos de programa(x86)".
 ### Ejercicio 12
+La aplicación será desplegada a un servidor de producción cuando se realicen los siguientes pasos.
+
+1. El servidor debe estar preparado, es decir que sea capaz de acceder al mismo y que este actualizado.
+2. Las configuraciones del entorno tienen que estar preparadas, es decir que tienen que estar listas todas las dependencias necesarias
+3. Se tienen que realizar las configuraciones necesarias al servidor web.
+4. Se tiene que enviar los archivos de la aplicación al servidor web.
+5. Se tiene que configurar la base de datos, ya sea creandola, brindandole todos los permisos al usuario o importando datos
+6. Se tienen que configurar las variables del entorno.
+7. Se tiene que configurar la seguridad del servidor web.
+
 ## Mantenimiento
 ### Ejercicio 13
---
+
+El plan de mantenimiento para la aplicación web será el siguiente:
+
+1. Antes de que comience un nuevo mes reindexar todos los indices, para así asegurar una buena velocidad en la búsqueda de los datos cuando se necesiten.
+2. Cada día se va a monitorear el estado del servidor.
+3. Cada mitad de semana se va a realizar un respaldo de la base de datos
+
 ### Ejercicio 14
 Se encontro un error en la aplicacion que consistia en que la aplicacion web aceptada caracteres especiales como "@" en el campo para introducir el nombre del producto.
