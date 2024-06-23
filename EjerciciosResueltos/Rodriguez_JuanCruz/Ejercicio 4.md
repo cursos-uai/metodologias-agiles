@@ -1,0 +1,2 @@
+# Que complejidad agrega el factor humano en el desarrollo de software?  
+La complejidad que veo que puede llegar a agregar el factor humano en el desarrollo de software es la posibilidad de error, ya que como dice la frase “podemos errar, somos humanos”, el error es más que normal. Por más perfeccionista y buen profesional que seas, siempre existe la enorme posibilidad de un fallo.
