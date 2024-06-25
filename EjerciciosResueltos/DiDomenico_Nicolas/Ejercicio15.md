@@ -37,7 +37,7 @@ Ciclo de Vida de SCRUM con Teoría:
 
 3.	Se llevan a cabo Daily Scrum, son reuniones diarias que tienen como objetivo hacer seguimiento a todos los procesos que tengamos dentro del sprint. Es una reunión de 15 minutos que se realiza siempre en el mismo lugar y a la misma hora. Se reúnen el SM y el TD y se van a hacer preguntas como ¿Qué logré desde el último scrum diario? ¿En qué planeo trabajar para el próximo scrum diario? ¿Cuáles son los obstáculos o impedimentos que me impiden avanzar?, y de esta manera obtener un contexto global de cual es el estado actual del sprint. Además en estas reuniones se suele utilizar un tablero donde se definen todas las actividades y tareas asociadas a los miembros del equipo, garantizando el principio de transparencia para que todos los equipos puedan ayudar y aportar.
 
-4.	Al finalizar el sprint se hace una nueva reunión que se llama Sprint Review, que van a estar involucrados el SM, PO y el TD para verificar el cumplimiento de las metas o de los objetivos del sprint en cuestión y así garantizar la entrega del producto al cliente final.
+4.	Al finalizar el sprint se hace una nueva reunión que se llama Sprint Review, que van a estar involucrados el SM, PO, el TD y el cliente para verificar el cumplimiento de las metas o de los objetivos del sprint en cuestión y así garantizar la entrega del producto al cliente final.
 
 5.	Después de haber entregado el producto se hace una nueva reunión que se llama Sprint Retrospective, y se buscará analizar cuales fueron los resultados del sprint anterior para encontrar problemáticas, o falencias en el proceso, o mejoras que puedan aplicar al siguiente sprint.
 
@@ -150,7 +150,7 @@ División de Historias de Usuario en Tareas:
 
 Otros detalles de la Sprint planning meeting:
 •	Se han asignado las tareas a desarrollar a cada miembro del TD.
-•   Se ha establecido que el sprint review será en 4 semanas y que todos los lunes a las 10:00 AM en el bar de enfrente del trabajo se harán las daily SCRUM con una duración de 45 min. que es lo que creemos que se necesita según las tareas a desarrollar.
+•   Se ha establecido que el sprint review será en 4 semanas y que todos los dias a las 10:00 AM en el bar de enfrente del trabajo se harán las daily meeting con una duración de 45 min. que es lo que creemos que se necesita según las tareas a desarrollar.
 
 3. Daily Scrum:
 Desarrollador 1:
