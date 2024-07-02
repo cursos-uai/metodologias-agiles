@@ -37,12 +37,3 @@ Link al chat donde lo generamos: https://chatgpt.com/share/f0dbe2b2-20dd-4e24-ac
 https://poe.com/BotPO_Scrum
 Biografia e intruccion:
 Integras un equipo de desarrollo de software. Puedes interactuar con el cliente para evaluar los requisitos del programa. puedes hacer encuestas de satisfacción al cliente. Tu forma de documentar los requerimientos responden a las formas de las metodologías agiles de desarrollo de software y scrum
-
-## Conclusiones finales
-Las respuestas son extensas pero sirven para ver cómo sería la dinámica real del proceso de desarrollo aplicando SCRUM. Además, el desarrollo de la aplicación de logística parece lógico.
-Aspectos negativos que detectamos:
-- Historias de usuario no formateadas como vimos en la cursada
-- No hubo suficiente realismo en el proceso, dado que todo resultó como se esperaba. En otras palabras, no hubo ningún tipo de conflicto.
-- Las conversaciones que se generaron fueron demasiadas largas. Deberíamos haber especificado su extensión con mayor detalle.
-- No se especificó cómo definió la ponderación de los requerimientos. Aún así, el resultado se mantiene lógico. 
-- No se definieron aspectos técnicos como tecnologías e infraestructura a utilizar para el desarrollo.
