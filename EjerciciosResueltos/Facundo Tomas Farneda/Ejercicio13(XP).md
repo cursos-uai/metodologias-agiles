@@ -100,3 +100,20 @@ Este principio aplica a la etapa intermedia del cursado, ya que es la etapa dond
 Un ejemplo puede ser que estudiantes escriban pruebas antes del código para asegurarse de que se cumplan con los requisitos. Otro ejemplo puede ser que los estudiantes utlizen un framework de pruebas, como JUnit, para escribir y ejecutar pruebas. Un último ejemplo puede ser que los profesores y estudiantes realicen una revisión periódica de las pruebas para asegurarse de que se cumplen los estándares de calidad y se han agregado pruebas suficientes.
 
 Un ejemplo para estudiantes en general puede ser que estudiantes utilicen un sistema de seguimiento de pruebas, para tener un registro de todas las pruebas realizadas y su estado.
+
+## Tabla de relación de principios
+
+| **Principio de XP**         | **Descripción**                                                                                                     |
+|-----------------------------|---------------------------------------------------------------------------------------------------------------------|
+| **Sit Together**            | Colocar a todo el equipo en el mismo espacio físico para mejorar la comunicación y colaboración.                     |
+| **Whole Team**              | Involucrar a todos los miembros del equipo, incluyendo desarrolladores, testers, y clientes, trabajando juntos.     |
+| **Informative Workspace**   | Crear un entorno de trabajo visualmente informativo donde el estado del proyecto sea visible para todos.            |
+| **Energized Work**          | Mantener al equipo motivado y con energía, evitando el agotamiento y promoviendo un ritmo sostenible.               |
+| **Pair Programming**        | Dos desarrolladores trabajan juntos en una estación de trabajo, compartiendo responsabilidades y conocimientos.     |
+| **Stories**                 | Utilizar historias de usuario para definir funcionalidades desde la perspectiva del usuario, guiando el desarrollo.  |
+| **Weekly Cycle**            | Planificar y revisar el progreso del proyecto en ciclos semanales, ajustando el trabajo según sea necesario.        |
+| **Quarterly Cycle**         | Planificar a largo plazo en ciclos trimestrales para establecer objetivos más amplios y estratégicos.               |
+| **Slack**                   | Incluir tiempo adicional en la planificación para manejar imprevistos y adaptarse a cambios.                        |
+| **Ten-Minute Build**        | Asegurarse de que el sistema completo se pueda construir y probar en diez minutos, promoviendo la eficiencia.       |
+| **Continuous Integration**  | Integrar y probar el código frecuentemente para detectar errores lo antes posible y asegurar la cohesión del sistema.|
+| **Test-First Programming**  | Escribir pruebas antes de escribir el código funcional para garantizar que todos los requisitos se cumplan.          |
