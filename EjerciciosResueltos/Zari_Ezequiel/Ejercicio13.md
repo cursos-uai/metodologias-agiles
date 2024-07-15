@@ -1,3 +1,7 @@
+# Ejercicio 12
+
+ **Utiliza los 12 principios XP para organizar el cursado y aprobación de este año.**
+ 
 ### 1. Sit Together
 
 **Qué:**
