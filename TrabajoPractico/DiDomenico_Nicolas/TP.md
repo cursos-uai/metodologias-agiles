@@ -64,32 +64,32 @@ __- Ejercicio 8: Ejercicios sobre Metodologías de Desarrollo en Cascada.__
     - Para diseñar la base de datos de la aplicación web para gestionar el inventario, se ha optado por un modelo relacional. Este tipo de base de datos es ideal para aplicaciones donde la integridad de los datos, las relaciones entre diferentes entidades y la capacidad de realizar consultas complejas son cruciales. Las bases de datos relacionales, como MySQL, PostgreSQL, y otros, ofrecen robustez, escalabilidad y soporte para transacciones, lo que garantiza que las operaciones se ejecuten correctamente y que los datos se mantengan consistentes.
 
     - Las tablas quedarian de la siguiente manera:
-        Productos
-        -id_producto (PK)
-        -nombre
-        -descripción
-        -categoría
-        -precio
-        -stock
+        - Productos
+            - -id_producto (PK)
+            - -nombre
+            - -descripción
+            - -categoría
+            - -precio
+            - -stock
 
-        Usuarios
-        -id_usuario (PK)
-        -nombre_usuario
-        -contraseña
-        -rol (administrador, empleado)
+        - Usuarios
+            - -id_usuario (PK)
+            - -nombre_usuario
+            - -contraseña
+            - -rol (administrador, empleado)
 
-        Movimientos de Inventario
-        -id_movimiento (PK)
-        -id_producto (FK)
-        -cantidad
-        -tipo (entrada, salida)
-        -fecha
+        - Movimientos de Inventario
+            - -id_movimiento (PK)
+            - -id_producto (FK)
+            - -cantidad
+            - -tipo (entrada, salida)
+            - -fecha
 
-        Reportes
-        -id_reporte (PK)
-        -id_usuario (FK)
-        -fecha
-        -tipo
+        - Reportes
+            - -id_reporte (PK)
+            - -id_usuario (FK)
+            - -fecha
+            - -tipo
 
 4. Diseño:
     - Utilizando los siguientes diagrama resuelva los casos de usos de los  ejercicios 7 y 8: 
