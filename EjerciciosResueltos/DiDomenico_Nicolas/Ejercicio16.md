@@ -71,9 +71,9 @@ Pasos para la Implementación con ejemplo práctico:
     -	Diseño del cuestionario:
         1.	[SEGURIDAD] En una escala del 1 al 5, ¿cómo evaluaría la seguridad de las siguientes tecnologías de blockchain para la implementación de la billetera virtual? 
         (1: Muy insegura, 5: Muy segura) 
-        -	Ethereum
-        -	Bitcoin
-        -	Hyperledger
+            -	Ethereum
+            -	Bitcoin
+            -	Hyperledger
 
         2.	[SEGURIDAD] ¿Qué medidas adicionales de seguridad recomendaría implementar para proteger contra ataques cibernéticos? 
 
@@ -82,9 +82,9 @@ Pasos para la Implementación con ejemplo práctico:
 
         4.	[ESCALABIDAD] En una escala del 1 al 5, ¿cómo evaluaría la capacidad de escalabilidad de las siguientes tecnologías de blockchain? 
         (1: Muy baja, 5: Muy alta) 
-        -	Ethereum
-        -	Bitcoin
-        -	Hyperledger
+            -	Ethereum
+            -	Bitcoin
+            -	Hyperledger
 
         5.	[ESCALABIDAD] ¿Qué técnicas recomendaría para manejar el aumento de transacciones sin comprometer el rendimiento del sistema? 
         (Opciones: Sharding, Sidechains, Lightning Network, Otros)
@@ -94,25 +94,25 @@ Pasos para la Implementación con ejemplo práctico:
 
         7.	[CONFIABILIDAD] En una escala del 1 al 5, ¿cómo evaluaría la confiabilidad de las siguientes soluciones de almacenamiento de datos? 
         (1: Muy baja, 5: Muy alta)
-        -	Bases de datos SQL
-        -	Bases de datos NoSQL
-        -	Almacenamiento en la nube
+            -	Bases de datos SQL
+            -	Bases de datos NoSQL
+            -	Almacenamiento en la nube
 
         8.	[FACILIDAD DE USO] ¿Qué características de la interfaz de usuario considera esenciales para mejorar la facilidad de uso de la billetera virtual?
 
         9.	[FACILIDAD DE USO] En una escala del 1 al 5, ¿cómo evaluaría la importancia de las siguientes características para la facilidad de uso? 
         (1: Nada importante, 5: Muy importante)
-        -	Diseño intuitivo
-        -	Soporte multilenguaje
-        -	Asistencia técnica en tiempo real
+            -	Diseño intuitivo
+            -	Soporte multilenguaje
+            -	Asistencia técnica en tiempo real
 
         10.	[COSTO] ¿Cuál es el rango de costos aceptable para desarrollar y mantener la billetera virtual con la tecnología recomendada?
 
         11.	[COSTO] En una escala del 1 al 5, ¿cómo evaluaría la relación costo-beneficio de las siguientes tecnologías de blockchain para la billetera virtual? 
         (1: Muy baja, 5: Muy alta) 
-        -	Ethereum
-        -	Bitcoin
-        -	Hyperledger
+            -	Ethereum
+            -	Bitcoin
+            -	Hyperledger
 
 4.	Aplicación del método Delphi:
     -	Distribuir el cuestionario a los expertos de forma anónima:
