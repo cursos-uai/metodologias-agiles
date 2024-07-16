@@ -1,4 +1,4 @@
-__- TP - Ejercicio 8 y 9:__
+__- TP Ejercicio 8 y 9:__
 
 __- Ejercicio 8: Ejercicios sobre Metodologías de Desarrollo en Cascada.__
 
@@ -197,7 +197,7 @@ __- Ejercicio 8: Ejercicios sobre Metodologías de Desarrollo en Cascada.__
         - Ingeniero DevOps: Responsable del despliegue y la infraestructura del sistema.
         - Especialista en IA: Desarrolla e implementa modelos de inteligencia artificial generativa.
 
-___- Ejercicio 9: Teniendo en cuenta los nuevos conceptos y habilidades aprendidas del proceso unificado, realiza las mejoras que considere necesario del trabajo práctico del Ejercicio 8.__
+__- Ejercicio 9: Teniendo en cuenta los nuevos conceptos y habilidades aprendidas del proceso unificado, realiza las mejoras que considere necesario del trabajo práctico del Ejercicio 8.__
 
 - Al aplicar el Proceso Unificado (UP) en lugar del enfoque en cascada, el trabajo práctico tendría resultados similares en términos de funcionalidades y calidad final, pero la forma en que se aborda el trabajo a lo largo del tiempo sería notablemente diferente.
 El enfoque en cascada es secuencial, rígido y requiere una planificación exhaustiva al inicio, con poca flexibilidad para cambios posteriores. En cambio, el Proceso Unificado es iterativo e incremental, permitiendo ajustes continuos y mejoras basadas en el feedback continuo.
