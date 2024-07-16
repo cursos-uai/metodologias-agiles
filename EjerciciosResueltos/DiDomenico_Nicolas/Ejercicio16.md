@@ -116,41 +116,40 @@ Pasos para la Implementación con ejemplo práctico:
 
 4.	Aplicación del método Delphi:
     -	Distribuir el cuestionario a los expertos de forma anónima:
-        1.	Preparar el cuestionario con todas las preguntas diseñadas en la fase anterior.
-        2.	Utilizar una plataforma en línea (como Google Forms, SurveyMonkey, o una herramienta específica de Delphi) que permita la distribución y recolección anónima de respuestas.
-        3.	Enviar el cuestionario a los 11 expertos por correo electrónico, asegurando que el proceso sea completamente anónimo.
+        - 1.	Preparar el cuestionario con todas las preguntas diseñadas en la fase anterior.
+        - 2.	Utilizar una plataforma en línea (como Google Forms, SurveyMonkey, o una herramienta específica de Delphi) que permita la distribución y recolección anónima de respuestas.
+        - 3.	Enviar el cuestionario a los 11 expertos por correo electrónico, asegurando que el proceso sea completamente anónimo.
 
     -	Recopilar las respuestas de los expertos y analizarlas estadísticamente:
-        4.	Recolectar todas las respuestas de los cuestionarios completados.
-        5.	Exportar los datos a una hoja de cálculo para un análisis detallado.
-        6.	Calcular estadísticas descriptivas (media, mediana, moda, desviación estándar) para las preguntas de tipo Likert. Por ejemplo, se descubre que la opción "Ethereum" obtuvo una media de 4.7 en seguridad, mientras que "Hyperledger" obtuvo 4.2.
-        7.	Analizar las respuestas abiertas para identificar temas y patrones comunes.
+        - 4.	Recolectar todas las respuestas de los cuestionarios completados.
+        - 5.	Exportar los datos a una hoja de cálculo para un análisis detallado.
+        - 6.	Calcular estadísticas descriptivas (media, mediana, moda, desviación estándar) para las preguntas de tipo Likert. Por ejemplo, se descubre que la opción "Ethereum" obtuvo una media de 4.7 en seguridad, mientras que "Hyperledger" obtuvo 4.2.
+        - 7.	Analizar las respuestas abiertas para identificar temas y patrones comunes.
 
     -	Sintetizar los resultados y presentarlos al panel de expertos:
-        8.	Crear un informe resumen en PDF con los resultados estadísticos y los hallazgos clave de las respuestas abiertas. Se incluyen gráficos y tablas para ilustrar los datos de manera clara.
-        9.	Muestra que la mayoría de los expertos consideran que Ethereum es la tecnología más segura y que la arquitectura de microservicios es la mejor para la escalabilidad. 
-        10.	Este informe se envía a todos los expertos por correo electrónico para su revisión.
+        - 8.	Crear un informe resumen en PDF con los resultados estadísticos y los hallazgos clave de las respuestas abiertas. Se incluyen gráficos y tablas para ilustrar los datos de manera clara.
+        - 9.	Muestra que la mayoría de los expertos consideran que Ethereum es la tecnología más segura y que la arquitectura de microservicios es la mejor para la escalabilidad. 
+        - 10.	Este informe se envía a todos los expertos por correo electrónico para su revisión.
 
     -	Brindar a los expertos la oportunidad de revisar y comentar los resultados:
-        11.	Solicitar a los expertos que revisen el informe y proporcionen comentarios adicionales. Los expertos tienen una semana para revisar el informe y enviar sus comentarios.
-        12.	Recopilar cualquier feedback y sugerencia de mejora. Dr. Laura Sánchez sugiere considerar también la tecnología "Cardano" debido a su seguridad y escalabilidad emergente.
+        - 11.	Solicitar a los expertos que revisen el informe y proporcionen comentarios adicionales. Los expertos tienen una semana para revisar el informe y enviar sus comentarios.
+        - 12.	Recopilar cualquier feedback y sugerencia de mejora. Dr. Laura Sánchez sugiere considerar también la tecnología "Cardano" debido a su seguridad y escalabilidad emergente.
 
     -	Realizar una segunda ronda de cuestionarios, incorporando los comentarios de la primera ronda:
-        13.	Revisar el cuestionario inicial basado en los comentarios recibidos.
-        14.	Distribuir el nuevo cuestionario, incluyendo las nuevas opciones o consideraciones sugeridas por los expertos. Se incluye "Cardano" como una opción adicional en las preguntas de blockchain y se distribuye un segundo cuestionario a los expertos.
+        - 13.	Revisar el cuestionario inicial basado en los comentarios recibidos.
+        - 14.	Distribuir el nuevo cuestionario, incluyendo las nuevas opciones o consideraciones sugeridas por los expertos. Se incluye "Cardano" como una opción adicional en las preguntas de blockchain y se distribuye un segundo cuestionario a los expertos.
 
     -	Analizar nuevamente las respuestas y presentar los resultados finales al panel de expertos:
-        15.	Recopilar y analizar las respuestas de la segunda ronda. La mayoría de los expertos coinciden en que Ethereum es la mejor opción de blockchain por su seguridad y flexibilidad, y que una arquitectura de microservicios ofrece la mejor escalabilidad, pero ahora con consideraciones adicionales para Cardano.
-        16.	Crear un informe final con los resultados consolidados y las conclusiones. La arquitectura de microservicios recibe un apoyo unánime para la escalabilidad.
-        17.	Se elabora un informe final que se presenta a todos los expertos y se utiliza para guiar el desarrollo de la billetera virtual.
+        - 15.	Recopilar y analizar las respuestas de la segunda ronda. La mayoría de los expertos coinciden en que Ethereum es la mejor opción de blockchain por su seguridad y flexibilidad, y que una arquitectura de microservicios ofrece la mejor escalabilidad, pero ahora con consideraciones adicionales para Cardano.
+        - 16.	Crear un informe final con los resultados consolidados y las conclusiones. La arquitectura de microservicios recibe un apoyo unánime para la escalabilidad.
+        - 17.	Se elabora un informe final que se presenta a todos los expertos y se utiliza para guiar el desarrollo de la billetera virtual.
 
-5.	 Selección de la tecnología y la arquitectura:
-    -	Selección de la tecnología y la arquitectura:
-        1.	Se seleccionó Ethereum como la tecnología de blockchain más segura y escalable.
-        2.	Para la autenticación, se eligió la autenticación de dos factores por su equilibrio entre seguridad y facilidad de uso.
-        3.	La arquitectura de microservicios fue seleccionada como la más adecuada para asegurar la escalabilidad y confiabilidad del sistema.
+5. Selección de la tecnología y la arquitectura:
+    - Se seleccionó Ethereum como la tecnología de blockchain más segura y escalable.
+    - Para la autenticación, se eligió la autenticación de dos factores por su equilibrio entre seguridad y facilidad de uso.
+    - La arquitectura de microservicios fue seleccionada como la más adecuada para asegurar la escalabilidad y confiabilidad del sistema.
 
-    -	Justificación de la selección:
+    - Justificación de la selección:
         1.	Tecnología de blockchain: Ethereum obtuvo la puntuación más alta en seguridad (media de 4.7) y escalabilidad en ambas rondas del método Delphi. Los expertos destacaron su flexibilidad y amplia adopción en la industria.
         2.	Tipo de autenticación: La autenticación de dos factores fue considerada la opción más efectiva para balancear seguridad y facilidad de uso, con consenso de la mayoría de los expertos.
         3.	Enfoque de arquitectura: La arquitectura de microservicios fue evaluada como la mejor opción para manejar grandes volúmenes de transacciones y facilitar el mantenimiento y actualización del sistema.
