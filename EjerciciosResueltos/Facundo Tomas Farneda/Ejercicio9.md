@@ -1,4 +1,4 @@
-# Ejercicio 8 | Práctica
+# Ejercicio 9 | Práctica
 
 ## Análisis de Requerimientos
 
@@ -82,6 +82,8 @@ componentes que contendrá la aplicación.
 
 La forma en la que implementaría la funcionalidad es con el lenguaje C# y Razor Pages, con estas herramientas haría una aplicación con el framework Blazor en Visual Studio Community 2022. Para guardar los datos utilizaría SQL Server.
 
+Las funcionalidades se irán implementando a partir de iteraciones, que en este caso serán dos. Una donde el requerimiento para implementar sea "Agregar un nuevo producto" y la otra donde el requerimiento para implementar sea "Validar producto"
+
 ### Ejercicio 8
 
 Habiendo elegido una arquitectura en capas implementaría la lógica de negocio en varias clases. Una que hace validaciones, otra que vincule la interfaz y la capa da acceso de datos.
@@ -89,11 +91,13 @@ Habiendo elegido una arquitectura en capas implementaría la lógica de negocio 
 ## Pruebas
 
 ### Ejercicio 9
+
 Prueba unitaria 1: Verificar que el producto se registre exitosamente en la base de datos.
 
 Prueba unitaria 2: Verificar que el precio del producto no tenga un valor negativo.
 
 ### Ejercicio 10
+
 Las siguientes pruebas integran los modulos de "Agregar un nuevo producto" y el de validaciones.
 
 Prueba de integracion 1: Verificar que ningún campo se encuentre vacio y que se registre el producto en la base de datos correctamente.
@@ -129,4 +133,5 @@ El plan de mantenimiento para la aplicación web será el siguiente:
 3. Cada mitad de semana se va a realizar un respaldo de la base de datos
 
 ### Ejercicio 14
+
 Se encontro un error en la aplicacion que consistia en que la aplicacion web aceptada caracteres especiales como "@" en el campo para introducir el nombre del producto.
