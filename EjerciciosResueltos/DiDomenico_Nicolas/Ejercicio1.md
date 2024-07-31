@@ -1,4 +1,11 @@
 Ejercicio 1:
+- ¿Qué sabéis de metodologías ágiles?
+    - ¿Conceptos aprendidos en otras asignaturas?
+    - ¿Estáis trabajando? ¿Qué metodología usan en la empresa?
+    - ¿Herramientas de integración y entrega continua?
+    - ¿Cuáles pensáis que son las características principales de un desarrollo ágil?
+
+
 -	Algunas metodologías agiles buscan dividir el trabajo en ciclos cortos y entregar partes del software en incrementos pequeños y frecuentes.
 -	No, soy estudiante.
 -	--

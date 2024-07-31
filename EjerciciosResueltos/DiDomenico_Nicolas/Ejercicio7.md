@@ -1,4 +1,6 @@
 Ejercicio 7: 
+- Dar un ejemplo de cada uno de los cuellos de botellas analizados anteriormente en el paper de Brooks.
+
 - Ejemplos de cuello de botella del desarrollo de software, que, según Brooks, se da en la parte esencial donde conviven 4 elementos esenciales como:
     - Complejidad un proyecto de desarrollo de software para una aplicación de procesamiento de imágenes médicas, la complejidad radica en la necesidad de implementar algoritmos sofisticados para detectar patrones y anomalías en las imágenes.
     - Conformidad: En el desarrollo de un sistema de gestión de recursos humanos para una empresa, el desafío de conformidad podría ser asegurar que el software cumpla con todas las regulaciones laborales locales e internacionales, así como con las políticas internas de la empresa.

@@ -44,7 +44,7 @@ Actividad: Selección de 4 principios básicos (30 minutos)
 |     10    |     Se promueve la autoorganización en los equipos.                                                                                                      |     1 Individuos e interacción                                                                  |
 |     11    |     Se fomenta la mejora continua en la atención a la   excelencia técnica y de diseño.                                                                  |     1 Individuos e interacción     2 Software que funciona                                      |
 |     12    |     La simplicidad, que promueve la máxima utilidad posible,   es esencial.                                                                              |     2 Software que funciona                                                                     |
-
+    
 
 - Elegimos los principios:
     - 1: Lo elegimos porque engloba colaboración e integración con el cliente y nos aseguramos que el software funcione.
